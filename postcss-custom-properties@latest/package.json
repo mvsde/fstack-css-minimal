@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "factorial build"
+  },
+  "devDependencies": {
+    "@factorial/stack-core": "^0.3.19",
+    "@factorial/stack-css": "^0.5.7"
+  }
+}
